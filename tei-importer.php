@@ -93,20 +93,19 @@ class Tei_Importer {
                 'post_content' => $post_content,
             );
 
-            wp_update_post($my_post, true);
 
-            if ( ! wp_is_post_revision( $post->ID ) ) {
+            // unhook functions to prevent infinite loop
+            remove_action( 'update_post_meta', array($this, 'transform_xml'));
+            remove_action('save_post', array( $this, 'save_custom_meta_data' ));
 
-                // unhook this function to prevent infinite loop
-                remove_action( 'updated_post_meta', array($this, 'transform_xml'));
+            // update the post, which calls save_post again
+            wp_update_post( $my_post, true );
 
-                // update the post, which calls save_post again
-                wp_update_post( $my_post, true );
+            // re-hook functions
+            add_action( 'update_post_meta', array($this, 'transform_xml')); 
+            add_action('save_post', array( $this, 'save_custom_meta_data' ));*/
 
-                // re-hook this function
-                add_action( 'updated_post_meta', array($this, 'transform_xml'));
-
-            }
+            
 
         }
 
@@ -136,7 +135,6 @@ class Tei_Importer {
         $tei_file = get_post_meta($post->ID, 'tei_importer_file_attachment', true );
         if (!$tei_file){
           $html .= 'Upload your TEI file.';
-          $html .= '<input type="file" id="tei_importer_file_attachment" name="tei_importer_file_attachment" value="" size="25">';
           $html .= '</p>';
         } else {
           $html .= 'You have already uploaded a TEI file. Uploading a new file will'
@@ -144,6 +142,7 @@ class Tei_Importer {
                  . '<a href="'.$tei_file['url'].'">'.basename($tei_file['url']).'</a>'
                  . '</p>';
         }
+           $html .= '<input type="file" id="tei_importer_file_attachment" name="tei_importer_file_attachment" value="" size="25">';
 
         wp_nonce_field(plugin_basename(__FILE__), 'tei_importer_file_attachment_nonce');
 
