@@ -102,10 +102,8 @@ class Tei_Importer {
             wp_update_post( $my_post, true );
 
             // re-hook functions
-            add_action( 'update_post_meta', array($this, 'transform_xml')); 
-            add_action('save_post', array( $this, 'save_custom_meta_data' ));*/
-
-            
+            add_action( 'update_post_meta', array($this, 'transform_xml'));
+            add_action('save_post', array( $this, 'save_custom_meta_data' ));
 
         }
 
