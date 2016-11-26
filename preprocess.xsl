@@ -5,8 +5,8 @@
     xmlns:prosody="http://www.prosody.org" xmlns:TEI="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.w3.org/1999/xhtml" version="1.0">
 
-    <xsl:output indent="yes" method="xml" omit-xml-declaration="yes"/>
-    <!-- <xsl:strip-space elements="*"/> -->
+    <xsl:output indent="no" method="xml" omit-xml-declaration="yes"/>
+    <xsl:strip-space elements="TEI:*"/>
     <xsl:preserve-space elements="seg"/>
     <xsl:variable name="scheme">
       <xsl:for-each select="//TEI:lg/@rhyme">
@@ -35,6 +35,12 @@
             <xsl:text> </xsl:text>
         </div>
 			</xsl:if>
+        
+        <!-- front matter -->
+        <xsl:apply-templates select="/TEI:TEI/TEI:text/TEI:front"/>
+        <!-- body -->
+        
+        <!-- header material -->
         <div id="poem">
             <div id="poemtitle">
                 <h2>
@@ -55,6 +61,15 @@
 				<xsl:if test="/TEI:TEI/TEI:text/TEI:body/TEI:lg[1]/@rhyme">
         	<div id="rhymeflag">Rhyme</div>
 				</xsl:if>
+        
+        
+
+        <!-- JQuery cleanup script -->
+        <script type="text/javascript">
+            jQuery(document).ready( function () {
+              jQuery('span.tooltips').next('br:not(.tei-line-break)').remove();
+            });
+        </script>
     </xsl:template>
 
     <xsl:template match="TEI:space">
@@ -76,9 +91,6 @@
                 <xsl:with-param name="linegroupindex" select="position()"/>
             </xsl:apply-templates>
         </xsl:for-each>
-        <xsl:if test="not(./@rend='nobreak')">
-              <br/>
-        </xsl:if>
     </xsl:template>
 
 
@@ -90,159 +102,113 @@
 
         <div class="prosody-line {$indent}">
             <!-- first cycle through the segments, constructing shadow syllables -->
-            <div class="prosody-shadowline" id="prosody-shadow-{$line-number}">
-                <xsl:copy-of select="@*"/>
-                <xsl:for-each select="TEI:seg">
-
-                    <xsl:variable name="seg-position" select="position()"/>
-
-                    <xsl:for-each select="text()|*/text()|TEI:caesura">
-                    	<xsl:if test="name(.)='caesura'">
-                        	<span class="caesura" style="display:none">//</span>
-                        </xsl:if>
-                        <xsl:variable name="foot-position" select="position()"/>
-                        <xsl:variable name="foot-last" select="last()"/>
-                        <xsl:variable name="node-string" select="."/>
-                        <xsl:variable name="last-char-pos" select="string-length($node-string)"/>
-                        <xsl:variable name="last-char" select="substring($node-string, $last-char-pos)"/>
-                        <xsl:for-each select="str:tokenize($node-string,' ')">
-                            <xsl:if test="string(.)">
-                                <span class="prosody-shadowsyllable" shadow=""
-                                    id="prosody-shadow-{$line-number}-{$seg-position}-{$foot-position}-{position()}"
-                                    onclick="switchstress(this);">
-                                    <span class="prosody-placeholder">
-                                        <xsl:apply-templates/>
-                                        <!-- <xsl:copy-of select="string(.)"/> -->
-				<xsl:if test="not(position()=last())">
-	                                        <xsl:text> </xsl:text>
-	                                    </xsl:if>
-                                    </span>
-                                </span>
-                            </xsl:if>
-                        </xsl:for-each>
-                        <xsl:if test="$last-char=' '">
-                            <xsl:text> </xsl:text>
-                        </xsl:if>
-                    </xsl:for-each>
-                    <xsl:if test="name(following-sibling::*[1]) = 'caesura'">
-                        <span class="caesura" style="display:none">//</span>
-                    </xsl:if>
-                </xsl:for-each>
-            </div>
+            
 
             <div class="TEI-l" id="prosody-real-{$line-number}">
 <!--                 <xsl:if test="exists(TEI:space)"> -->
                     <xsl:apply-templates select="TEI:space" />
 <!--                 </xsl:if> -->
 
-                <xsl:for-each select="@*">
-                  <xsl:attribute name="data-{name()}"><xsl:value-of select="."/></xsl:attribute>
-                </xsl:for-each>
-                <xsl:attribute name="data-feet">
-                  <xsl:for-each select="TEI:seg">
-                    <xsl:if test="position()>1">|</xsl:if>
-                    <xsl:value-of select="."/>
-                  </xsl:for-each>
-                </xsl:attribute>
+                
+                
 
-                <span style="display:none;" linegroupindex="{$linegroupindex}" answer="{../@met}"
-                    >Meter</span>
+                
 
 
-                <xsl:for-each select="TEI:seg">
-                    <!-- if the following flag gets set, this indicates that there is a discrepancy in the line which must be later
-                        highlighted -->
-<!--                     <xsl:variable name="discrepant-flag" select="exists(@real)"/>
- -->
-                         <xsl:variable name="discrepant-flag" select="boolean(@real)"/>
-
-                    <!-- if the following flag gets set, this indicates that there is a sb element in the line and the
-                    segment ends with a space -->
-
-                    <xsl:variable name="seg-position" select="position()"/>
-			<xsl:for-each select="text()|*/text()|TEI:caesura">
-			<xsl:if test="name(.)='caesura'">
-				<span class="caesura" style="display:none">//</span>
-			</xsl:if>
-                        <xsl:variable name="foot-position" select="position()"/>
-                        <xsl:variable name="foot-last" select="last()"/>
-                        <xsl:variable name="node-string" select="."/>
-                        <xsl:variable name="last-char-pos" select="string-length($node-string)"/>
-                        <xsl:variable name="last-char" select="substring($node-string, $last-char-pos)"/>
-                        <xsl:for-each select="str:tokenize(.,' ')">
-                            <xsl:if test="string(.)">
-                                <span class="prosody-syllable" real=""
-                                    id="prosody-real-{$line-number}-{$seg-position}-{$foot-position}-{position()}"
-                                    onclick="switchfoot('prosody-real-{$line-number}-{$seg-position}-{$foot-position}-{position()}');">
-                                    <xsl:if test="$discrepant-flag">
-                                        <xsl:attribute name="discrepant"/>
-                                    </xsl:if>
-                                    <xsl:copy-of select="text()"/>
-                                    <!-- add space back -->
-
-                                    <xsl:choose>
-                                      <xsl:when test="not(position()=last()) and $last-char=' '">
-                                        <xsl:text> </xsl:text>
-                                      </xsl:when>
-                                      <xsl:when test="not(position()=last())">
-                                        <xsl:text> </xsl:text>
-                                      </xsl:when>
-                                      <xsl:when test="$last-char=' '">
-                                        <xsl:text> </xsl:text>
-                                      </xsl:when>
-                                    </xsl:choose>
-
-                                    <xsl:if test="not(position()=last())">
-                                        <!-- <xsl:text>A</xsl:text> -->
-                                    </xsl:if>
-                                    <!-- <span class="prosody-footmarker">|</span> -->
-                                    <xsl:if test="$last-char=' '">
-                                        <!-- <xsl:text>F</xsl:text> -->
-                                    </xsl:if>
-                                </span>
-                            </xsl:if>
-                        </xsl:for-each>
-
-                    </xsl:for-each>
-                    <xsl:if test="(name(following-sibling::*[1]) = 'caesura')">
-                        <span class="caesura" style="display:none">//</span>
-                    </xsl:if>
-                </xsl:for-each>
-
+                
+                <xsl:apply-templates />
             </div>
             <div class="buttons">
                   <xsl:if test="TEI:note">
-                    <span class="button">
-                        <button class="prosody-note-button" id="displaynotebutton{$line-number}"
-                            name="Note about this line" onclick="">
-                            <img src="[PLUGIN_DIR]/blank.gif"/>
-                        </button>
-                        <p class="prosody-note" id="hintfor{$line-number}">
-                            <span>Note on line <xsl:value-of select="$line-number"/>:</span>
-                            <xsl:value-of select="TEI:note"/>
-                        </p>
-                    </span>
+                    
                 </xsl:if>
-                <span class="button">
-                    <button class="prosody-checkstress" id="checkstress{$line-number}"
-                        name="Check stress" onclick="checkstress({$line-number})" onmouseover="Tip('Check stress', BGCOLOR, '#676767', BORDERWIDTH, 0, FONTCOLOR, '#FFF')" onmouseout="UnTip()">
-                        <img src="[PLUGIN_DIR]/stress-default.png"/>
-                    </button>
-                </span>
-                <span class="button">
-                    <button class="prosody-checkfeet" id="checkfeet{$line-number}" name="Check feet"
-                        onclick="checkfeet({$line-number})" onmouseover="Tip('Check feet', BGCOLOR, '#676767', BORDERWIDTH, 0, FONTCOLOR, '#FFF')" onmouseout="UnTip()">
-                        <img src="[PLUGIN_DIR]/feet-default.png"/>
-                    </button>
-                </span>
-                <span class="button">
-                    <button class="prosody-meter" id="checkmeter{$line-number}" name="Check meter"
-                        onclick="checkmeter({$line-number},{$linegroupindex})" onmouseover="Tip('Check meter', BGCOLOR, '#676767', BORDERWIDTH, 0, FONTCOLOR, '#FFF')" onmouseout="UnTip()">
-                        <img src="[PLUGIN_DIR]/meter-default.png"/>
-                    </button>
-                </span>
+                
+                
+                
             </div>
 
         </div>
+    </xsl:template>
+    
+    <!-- Matt's additions hereafter -->
+    <xsl:template xml:space="default" match="/TEI:TEI/TEI:text/TEI:front">
+        
+        <div class="frontmatter">
+            <xsl:apply-templates xml:space="default"/>
+        </div>
+    </xsl:template>
+    
+    <!-- bold text -->
+    <xsl:template xml:space="default" match="TEI:hi[not(@corresp)][not(@id)][not(@rend='italic')]">
+        <b><xsl:apply-templates/></b>
+    </xsl:template>
+    
+    <!-- italics -->
+    <xsl:template xml:space="default" match="TEI:hi[not(@corresp)][not(@id)][@rend='italic']">
+        <i><xsl:apply-templates/></i>
+    </xsl:template>
+    
+    <!-- build a Tool Tip from a matching ref/note element set -->
+    <xsl:template match="TEI:hi[@corresp] | TEI:span[@corresp] | TEI:ref[@target]">
+        <xsl:variable name="nodeId" select="current()/@corresp"/>
+        <xsl:variable name="toolTipContent" select="//TEI:note[@xml:id=$nodeId or @id=$nodeId][1]"/>
+        <xsl:element name="span">
+          <xsl:attribute name="class">tooltips</xsl:attribute>
+          <xsl:attribute name="title">
+            <xsl:call-template name="createToolTipContent">
+              <xsl:with-param name="node" select="$toolTipContent"></xsl:with-param>
+            </xsl:call-template>
+          </xsl:attribute>
+          <xsl:choose>
+            <xsl:when test="current()[@rend='italic']">
+              <i><span style="color: #3366ff;"><xsl:apply-templates/></span></i>
+            </xsl:when>
+            <xsl:otherwise>
+              <span style="color: #3366ff;"><xsl:apply-templates/></span>
+            </xsl:otherwise>
+          </xsl:choose> 
+        </xsl:element>
+        
+    </xsl:template>
+    
+    <!-- this template copies text and links to media into a tooltip -->
+    <xsl:template name="createToolTipContent">
+        <xsl:param name="node"/>
+        <xsl:for-each select="$node//TEI:media | $node//text()">
+            <xsl:choose>
+                <xsl:when test="local-name() = 'media'">
+                    <xsl:variable name="mediaTag">&lt;img src=&quot;<xsl:value-of select="@url"/>&quot;/ &gt;</xsl:variable>
+                    <xsl:text> </xsl:text><xsl:value-of select="normalize-space($mediaTag)"/><xsl:text> </xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="normalize-space(current())"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>
+    </xsl:template>
+    
+	<xsl:template match="TEI:pb"><span style="color:#999999;" class="pagebreak">[page break]</span></xsl:template>
+    
+    <xsl:template match="TEI:note[@target]"></xsl:template>
+    
+    <!-- render media as images -->
+    <xsl:template match="TEI:media">
+        <xsl:element name="img">
+            <xsl:attribute name="src"><xsl:value-of select="@url"/></xsl:attribute>
+        </xsl:element>
+    </xsl:template>
+    
+    <!-- render explicitly tagged line breaks -->
+    <xsl:template match="TEI:lb">
+        <br class="tei-line-break"/>
+    </xsl:template>
+    
+    <!-- ignore line breaks not explicitly encoded as such -->
+    <xsl:template match=
+        "text()[not(string-length(normalize-space()))]"/>
+    
+    <xsl:template match=
+        "text()[string-length(normalize-space()) > 0]">
+        <xsl:value-of select="translate(.,'&#xA;&#xD;', '  ')"/>
     </xsl:template>
 </xsl:stylesheet>
