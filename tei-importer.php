@@ -114,7 +114,7 @@ class Tei_Importer {
             'tei_importer_file_upload',
             __('TEI File:', 'tei-importer'),
             array($this, 'tei_file_upload'),
-            'post',
+            'page',
             'normal',
             'high'
         );
