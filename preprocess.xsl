@@ -149,9 +149,10 @@
     </xsl:template>
     
     <!-- build a Tool Tip from a matching ref/note element set -->
-    <xsl:template match="TEI:hi[@corresp] | TEI:span[@corresp] | TEI:ref[@target]">
-        <xsl:variable name="nodeId" select="current()/@corresp"/>
-        <xsl:variable name="toolTipContent" select="//TEI:note[@xml:id=$nodeId or @id=$nodeId][1]"/>
+    <xsl:template match="TEI:hi[@target] | TEI:span[@target] | TEI:ref[@target]">
+        <xsl:variable name="nodeId" select="current()/@target"/>
+        <xsl:variable name="toolTipContent" select="//TEI:note[@target][1]"/>
+        
         <xsl:element name="span">
           <xsl:attribute name="class">tooltips</xsl:attribute>
           <xsl:attribute name="title">
