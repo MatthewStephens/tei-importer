@@ -108,25 +108,8 @@
 <!--                 <xsl:if test="exists(TEI:space)"> -->
                     <xsl:apply-templates select="TEI:space" />
 <!--                 </xsl:if> -->
-
-                
-                
-
-                
-
-
-                
                 <xsl:apply-templates />
             </div>
-            <div class="buttons">
-                  <xsl:if test="TEI:note">
-                    
-                </xsl:if>
-                
-                
-                
-            </div>
-
         </div>
     </xsl:template>
     
