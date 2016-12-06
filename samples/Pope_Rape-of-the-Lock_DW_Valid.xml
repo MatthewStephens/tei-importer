@@ -189,7 +189,7 @@
                   Print.</note>
                <lb/> to consent to the publication of one <lb/> more correct: This I was forc'd to
                be- <lb/> fore I had executed half my Design, for <lb/> the <hi rend="italic"><ref
-                     target="a006">Machinery</ref></hi>
+                     target="a006" corresp="n006">Machinery</ref></hi>
                <note xml:id="n006" target="a006" type="gloss">Refers to the fairy like creatures
                   that are in the poems; the sylphys, the nymphs, the gnomes, the salamanders. As he
                   explains in the next line, they are the portrayals of what we would call in the
@@ -203,7 +203,7 @@
                <lb/> many modern Ladies; Let an Action be <lb/> never so trivial in it self, they
                always <lb/> make it appear of the utmost Impor- <lb/> tance. These Machines I
                determin'd to <lb/> raise on a very new and odd Foundation, <lb/> the <hi
-                  rend="italic"><ref target="a007">Rosicrucian</ref></hi>
+                  rend="italic"><ref target="a007" corresp="n007">Rosicrucian</ref></hi>
                <note xml:id="n007" target="a007" type="gloss">Pope is referring to a non-religious
                   order who "are a community of Seekers who study and practice the metaphysical laws
                   governing the universe." "The Rosicrucian movement, of which the Rosicrucian
@@ -225,7 +225,7 @@
             <p>
                <lb/> The <hi rend="italic">Rosicrucians</hi> are the People I must <lb/> bring You
                acquainted with. The best <lb/> Account I know of them is in the French <lb/> Book
-               call'd <foreign xml:lang="fre"><ref target="a009">Le Comte de
+               call'd <foreign xml:lang="fre"><ref target="a009" corresp="n009">Le Comte de
                   Gabalis</ref>,</foreign>
                <note xml:id="n009" target="a009" type="gloss">17th-century French text by Abbé
                   Nicolas-Pierre-Henri de Montfaucon de Villars (1635-1673) The titular "Comte de
@@ -237,7 +237,7 @@
                   n="cw:both"/>
                <lb/> both in its Title and Size is so like a <lb/>
                <hi rend="italic">Novel,</hi> that many of the fair Sex have <lb/> read it for one by
-                  <ref target="a010">Mistake</ref>
+                  <ref target="a010" corresp="n010">Mistake</ref>
                <note xml:id="n010" target="a010" type="gloss">Pope's use of mistake lends an eye
                   into the status of the novel in popular culture. The novel is not something
                   capable of intricate themes. Any reading of a novel for more than entertainment is
@@ -308,7 +308,7 @@
          <div n="Dedication" type="dedication">
             <l n="1">WHAT dire Offence from am'rous Causes springs,</l>
             <l n="3">What mighty Quarrels rise from Trivial Things,</l>
-            <l n="5"> I sing -- This Verse to <hi rend="italic"><ref target="a012">C---l</ref></hi>
+            <l n="5"> I sing -- This Verse to <hi rend="italic"><ref target="a012" corresp="n012">C---l</ref></hi>
                <note xml:id="n012" target="a012" type="gloss">He is referring to John Caryll, Sr.
                   (1667-1736), the IInd Baron Caryll of Durford. Caryll, Sr. was a close friend of
                   Pope and the guardian of Baron Petre, who was the perpetrator of the crime of
@@ -317,7 +317,7 @@
                   Greenwood, 2004. Print. Erskine-Hill, Howard. The Social Milieu of Alexander Pope:
                   Lives, Example, and the Poetic Response. Illustrated ed. New Haven: Yale UP, 1975.
                   344. Print.</note> , Muse! is due; </l>
-            <l n="6"> This, ev'n <hi rend="italic"><ref target="a013">Belinda</ref></hi>
+            <l n="6"> This, ev'n <hi rend="italic"><ref target="a013" corresp="n013">Belinda</ref></hi>
                <note xml:id="n013" target="a013" type="gloss">The heroine of the poem, inspired by
                   Arabella Fermor, even though Pope says they are similar only in beauty. Pope,
                   Alexander. The Rape of The Lock. London: Bernard Lintott. 1714.</note> may
@@ -349,18 +349,18 @@
             </lg>
             <lg type="verse_paragraph">
                <l n="7">
-                  <hi rend="italic"><ref target="a015">Sol</ref></hi>
+                  <hi rend="italic"><ref target="a015" corresp="n015">Sol</ref></hi>
                   <note xml:id="n015" target="a015" type="gloss">Sol is Latin for the Sun. "sol,
                      n.1." OED Online. Oxford University Press, September 2015. Web. 5 December
                      2015.</note> thro' white Curtains did his Beams display, </l>
                <l n="8"> And op'd those Eyes which brighter shine than they; </l>
-               <l n="9"> Now <hi rend="italic"><ref target="a016">Shock</ref></hi>
+               <l n="9"> Now <hi rend="italic"><ref target="a016" corresp="n016">Shock</ref></hi>
                   <note xml:id="n016" target="a016" type="gloss">Shock is Belinda's dog. In lines
                      115-116, it says that Shock leapt up and woke his mistress with his tongue. In
                      other editions, "shock" is replaced with "lap dog." Pope, Alexander. Canto I.
                      The Rape of The Lock. London: Bernard Lintott. 1714.</note> had giv'n himself
                   the rowzing Shake, </l>
-               <l n="10"> And Nymphs prepar'd their <hi rend="italic"><ref target="a017"
+               <l n="10"> And Nymphs prepar'd their <hi rend="italic"><ref target="a017" corresp="n017"
                         >Chocolate</ref></hi>
                   <note xml:id="n017" target="a017" type="gloss">According to a "literary kitchen"
                      blog entry entitled "A Literary History of Chocolate: Part 1," chocolate was a
@@ -390,7 +390,7 @@
                   tenth Hour resound.</l>
                <l n="13">
                   <hi rend="italic">Belinda</hi> still her downy Pillow prest, </l>
-               <l n="14"> Her Guardian <hi rend="italic"><ref target="a020">Sylph</ref></hi>
+               <l n="14"> Her Guardian <hi rend="italic"><ref target="a020" corresp="n020">Sylph</ref></hi>
                   <note xml:id="n020" target="a020" type="gloss">As Pope has explained in the
                      introductory letter, there are four groups of fairy like creatures that guard
                      over women: Sylphs, Nymphs, Gnomes, and Salamanders. We are introduced to
@@ -408,7 +408,7 @@
                      created the dream that she was having. (interpretive/explanatory note -
                      AG)</note>had summon'd to her silent Bed</l>
                <l n="16">The Morning Dream that hover'd o'er her Head.</l>
-               <l n="17"> A Youth more glitt'ring than a <hi rend="italic"><ref target="a023"
+               <l n="17"> A Youth more glitt'ring than a <hi rend="italic"><ref target="a023" corresp="n023"
                         >Birth-night Beau</ref></hi>
                   <note xml:id="n023" target="a023" type="gloss">referring to someone more decked up
                      and beautiful than a man would be on his birthday. birth-night: the night on
@@ -457,7 +457,7 @@
                <l n="33">What tho' no Credit doubting Wits may give?</l>
                <l n="34">The Fair and Innocent shall still believe.</l>
                <l n="35">Know then, unnumbered Spirits round thee fly,</l>
-               <l n="36"> The light <hi rend="italic"><ref target="a028">Militia</ref></hi><note
+               <l n="36"> The light <hi rend="italic"><ref target="a028" corresp="n028">Militia</ref></hi><note
                      xml:id="n028" target="a028" type="gloss">The light Militia are the fairy
                      creatures. The lower sky is their dwelling, the sky as it exists on Earth, as
                      opposed to Heaven, where Angels dwell. While the creatures and setting are
@@ -473,9 +473,9 @@
                      Wing</ref><note xml:id="n029" target="a029" type="gloss">The creatures are
                      always present (on the wing meaning in flight) in the places where London's
                      society is found.</note>,</l>
-               <l n="38"> Hang o'er the <hi rend="italic"><ref target="a030">Box</ref></hi><note
+               <l n="38"> Hang o'er the <hi rend="italic"><ref target="a030" corresp="n030">Box</ref></hi><note
                      xml:id="n030" target="a030" type="gloss">A ‘box’ in a theatre or
-                     opera-house.</note> , and hover round the <hi rend="italic"><ref target="a031"
+                  opera-house.</note> , and hover round the <hi rend="italic"><ref target="a031" corresp="n031"
                         >Ring</ref></hi><note xml:id="n031" target="a031" type="gloss">Ring -
                      Charles I created a circular track called the Ring in Hyde Park where members
                      of the royal court could drive their carriages. The park was opened to the
@@ -489,9 +489,9 @@
                      uses that deal with military garb, or things needed for a military expedition,
                      or general "get up" or dress. "equipage, n." OED Online. Oxford University
                      Press, September 2015. Web. 5 December 2015.</note> thou hast in Air,</l>
-               <l n="40"> And view with scorn <hi rend="italic"><ref target="a034">Two
-                     Pages</ref></hi> and a <hi rend="italic"><ref target="a034"
-                     >Chair</ref></hi><note xml:id="n034" target="a034" type="gloss">As an
+               <l n="40"> And view with scorn <hi rend="italic"><ref target="q034">Two
+                  Pages</ref></hi> and a <hi rend="italic"><ref target="a034" corresp="n034"
+                     >Chair</ref></hi><note xml:id="n034" target="a034 a035" type="gloss">As an
                      antithetical image to the equipage afforded to Belinda by the Sylphs, "Two
                      Pages and a Chair" refers to the attendants who would carry the lady on a
                      chair. In Britain they are called sedan chairs but there are similar "vehicles"
@@ -525,7 +525,7 @@
                      earlier, a woman or her "vanities", still can see and look at the cards
                      although she does not play. (interpretive/explanatory note - AG)</note>.</l>
                <l n="49">Her Joy in gilded Chariots, when alive,</l>
-               <l n="50"> And Love of <hi rend="italic"><ref target="a040">Ombre</ref></hi>
+               <l n="50"> And Love of <hi rend="italic"><ref target="a040" corresp="n040">Ombre</ref></hi>
                   <note xml:id="n040" target="a040" type="gloss">A trick-taking card game for three
                      people using forty cards. A game of Ombre is played later on and is described
                      in detail in Canto III. "ombre, n.1." OED Online. Oxford University Press,
@@ -575,7 +575,7 @@
                <l n="69">When kind Occasion prompts their warm Desires,</l>
                <l n="70">When Musick softens, and when Dancing fires?</l>
                <l n="71"> 'Tis but their <hi rend="italic">Sylph</hi> , the wife Celestials know, </l>
-               <l n="72"> Tho' <hi rend="italic"><ref target="a045">Honour</ref></hi>
+               <l n="72"> Tho' <hi rend="italic"><ref target="a045" corresp="n045">Honour</ref></hi>
                   <note xml:id="n045" target="a045" type="gloss">This refers to the fact that all
                      the works the spirits do to safeguard their maids'purity is seen by humans as
                      something else. The description that mortals use for this phenomenon is 'being
@@ -612,7 +612,7 @@
                      allowed to decide by their own agency, but must rather be lured to or away from
                      their decision.</note>. </l>
                <l n="81">'Tis these that early taint the Female Soul,</l>
-               <l n="82"> Instruct the Eyes of young <hi rend="italic"><ref target="a049"
+               <l n="82"> Instruct the Eyes of young <hi rend="italic"><ref target="a049" corresp="n049"
                         >Coquettes</ref></hi>
                   <note xml:id="n049" target="a049" type="gloss">Pope is calling out against the
                      trend of women to "tease" men all with the purpose of denying them later. He is
@@ -625,14 +625,14 @@
             <lg type="verse_paragraph">
                <l n="85">Oft when the World imagine Women stray,</l>
                <l n="86"> The <hi rend="italic">Sylphs</hi> thro' mystick Mazes guide thier Way, </l>
-               <l n="87">Thro' all the giddy <ref target="a050">Circle</ref>
+               <l n="87">Thro' all the giddy <ref target="a050" corresp="n050">Circle</ref>
                   <note xml:id="n050" target="a050" type="gloss">Circle is a poetic term for the
                      world or the globe.</note> they pursue,</l>
                <l n="88">And old Impertinence expel by new.</l>
                <l n="89">What tender Maid but must a Victim fall</l>
                <l n="90">To one Man's Treat, but for another's Ball?</l>
-               <l n="91"> When <hi rend="italic"><ref target="a051">Florio</ref></hi>
-                  <note xml:id="n051" target="a051" type="gloss">Not a reference to any
+               <l n="91"> When <hi rend="italic"><ref target="a051" corresp="n051">Florio</ref></hi>
+                  <note xml:id="n051" target="a051 a052" type="gloss">Not a reference to any
                      specific men. Florio, along with Damon, were common names used in early epic
                      poetry to refer to men in general, the way we use, Tom, Dick, and Harry, today.
                      "The aristocratic young men of the time were, like the ladies, lacking in any
@@ -642,7 +642,7 @@
                      Literature and Society." NeoEnglish. 1 Aug. 2010. Web. 5 Dec. 2015.
                      https://neoenglish.wordpress.com/2010/08/01/the-rape-of-the-lock-is-the-best-example-of-relationship-between-literature-and-society/.</note>
                   speaks, what Virgin could withstand, </l>
-               <l n="92"> If gentle <hi rend="italic"><ref target="a051">Damon</ref></hi> did not
+               <l n="92"> If gentle <hi rend="italic"><ref target="a051" corresp="n051">Damon</ref></hi> did not
                   squeeze her Hand? <pb n="7"/>
                </l>
                <l n="93">With varying Vanities, from ev'ry Part,</l>
@@ -682,7 +682,7 @@
                <l n="110"> Leapt up, and wak'd his Mistress with his Tongue. <pb n="8"/>
                </l>
                <l n="111"> 'Twas then <hi rend="italic">Belinda</hi> ! if Report say true, </l>
-               <l n="112"> Thy Eyes first open'd on a <hi rend="italic"><ref target="a055"
+               <l n="112"> Thy Eyes first open'd on a <hi rend="italic"><ref target="a055" corresp="n055"
                         >Billet-doux</ref></hi>
                   <note xml:id="n055" target="a055" type="gloss">(n.) a love letter billet-doux.
                      Oxford Dictionaries. Oxford University Press, n.d. Web. 08 December
@@ -693,7 +693,7 @@
                <l n="114">But all the Vision vanish'd from thy Head.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="114"> And now, unveil'd, the <hi rend="italic"><ref target="a056"
+               <l n="114"> And now, unveil'd, the <hi rend="italic"><ref target="a056" corresp="n056"
                      >Toilet</ref></hi>
                   <note xml:id="n056" target="a056" type="gloss">The toilet mentioned in this stanza
                      refers most directly to a dressing table. These tables evolved in the 18th
@@ -764,7 +764,7 @@
                      India." Aquamarine from Karur India - Fine Blue Aquamarine Gems Mined in India.
                      GemSelect.com, 2005. Web. 5 Dec. 2015.
                      http://www.gemselect.com/help/newsletter/newsletter-aug-12.php.</note>unlocks, </l>
-               <l n="128"> And all <hi rend="italic"><ref target="a064">Arabia</ref></hi>
+               <l n="128"> And all <hi rend="italic"><ref target="a064" corresp="n064">Arabia</ref></hi>
                   <note xml:id="n064" target="a064" type="gloss">Refers to scented oils or perfumes
                      from the Arabian Peninsula or the middle east. as it is now known. They came in
                      elaborate and ornate containers and were very expensive.</note> breaths from
@@ -801,7 +801,7 @@
                <l n="139"> The busy <hi rend="italic">Sylphs</hi> surround their darling Care; </l>
                <l n="140">These set the Head, and those divide the Hair,</l>
                <l n="141">Some fold the Sleeve, while others plait the Gown;</l>
-               <l n="142"> And <hi rend="italic"><ref target="a069">Betty</ref></hi>
+               <l n="142"> And <hi rend="italic"><ref target="a069" corresp="n069">Betty</ref></hi>
                   <note xml:id="n069" target="a069" type="gloss">According to James Anderson Winn's
                      "Queen Anne: Patroness of Arts", "Betty" had long served as a generic term for
                      a maid. Winn, James Anderson. Queen Anne: Patroness of Arts. New York: Oxford
@@ -832,7 +832,7 @@
                   her shone, </l>
                <l n="6">But ev'ry Eye was fix'd on her alone.</l>
                <l n="7"> On her white Breast a sparkling <hi rend="italic">Cross</hi> she wore, </l>
-               <l n="8"> Which <hi rend="italic"><ref target="a073">Jews</ref></hi>
+               <l n="8"> Which <hi rend="italic"><ref target="a073" corresp="n073">Jews</ref></hi>
                   <note xml:id="n073" target="a073" type="gloss">Using the cross as a
                      non-denominational decoration might refer to the breakdown of Catholic
                      solidarity that these 'petty squabbles' might cause. (interpretive/thematic
@@ -905,7 +905,7 @@
                <l n="28">And Beauty draws us with a single Hair.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="29"> Th' Adventrous <hi rend="italic"><ref target="a083">Baron</ref></hi>
+               <l n="29"> Th' Adventrous <hi rend="italic"><ref target="a083" corresp="n083">Baron</ref></hi>
                   <note xml:id="n083" target="a083" type="gloss">First time Baron is
                      introduced</note> the bright Locks admir'd, </l>
                <l n="30">He saw, he wish'd, and to the Prize aspir'd:</l>
@@ -921,7 +921,7 @@
                <l n="34">Few ask, if Fraud or Force attain'd his Ends.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="35"> For this, e're <hi rend="italic"><ref target="a086">Phaebus</ref></hi>
+               <l n="35"> For this, e're <hi rend="italic"><ref target="a086" corresp="n086">Phaebus</ref></hi>
                   <note xml:id="n086" target="a086" type="gloss">Variant spelling of Phoebus, a
                      common name for Apollo, god of the sun. "Phoebus, n." OED Online. Oxford
                      University Press, September 2015. Web. 8 December 2015.</note> rose, he had
@@ -946,7 +946,7 @@
                   own: </l>
                <l n="41">A Fan, a Garter, half a Pair of Gloves;</l>
                <l n="42">And all the Trophies of his former Loves.</l>
-               <l n="43"> With tender <hi rend="italic"><ref target="a089">Bilet-doux</ref></hi>
+               <l n="43"> With tender <hi rend="italic"><ref target="a089" corresp="n089">Bilet-doux</ref></hi>
                   <note xml:id="n089" target="a089" type="gloss">"A love-letter. (Now usually
                      jocular.)" "billet-doux, n." OED Online. Oxford University Press, September
                      2015. Web. 1 December 2015.</note> he lights the Pyre, </l>
@@ -1032,7 +1032,7 @@
                   <note xml:id="n102" target="a102" type="gloss">Referring to Aerial.</note>give
                   Ear, </l>
                <l n="76">
-                  <hi rend="italic"><ref target="a103">Fays, Fairies, Genii, Elves</ref></hi>
+                  <hi rend="italic"><ref target="a03" corresp="n103">Fays, Fairies, Genii, Elves</ref></hi>
                   <note xml:id="n103" target="a103" type="gloss">This is where Aerial begins
                      speaking.</note> , and <hi rend="italic">Daemons</hi> hear! </l>
                <l n="77">Ye know the Spheres and various Tasks assign'd,</l>
@@ -1093,12 +1093,12 @@
                      "Fair"</note>waving Hairs,</l>
                <l n="100">Assist their Blushes, and inspire their Airs;</l>
                <l n="101">Nay oft, in Dreams, Invention we bestow,</l>
-               <l n="102"> To change a <hi rend="italic"><ref target="a112">Flounce</ref></hi>
+               <l n="102"> To change a <hi rend="italic"><ref target="a12" corresp="n112">Flounce</ref></hi>
                   <note xml:id="n112" target="a112" type="gloss">"‘An ornamental appendage to the
                      skirt of a lady's dress, consisting of a strip gathered and sewed on by its
                      upper edge around the skirt, and left hanging and waving.’ (Welsh)" "flounce,
                      n.2." OED Online. Oxford University Press, September 2015. Web. 8 December
-                     2015.</note> , or add a <hi rend="italic"><ref target="a113">Furbelo</ref></hi>
+                     2015.</note> , or add a <hi rend="italic"><ref target="a113" corresp="n113">Furbelo</ref></hi>
                   <note xml:id="n113" target="a113" type="gloss">Variant spelling of 'Furbelow', "A
                      piece of stuff pleated and puckered on a gown or petticoat; a flounce; the
                      pleated border of a petticoat or gown." "furbelow, n." OED Online. Oxford
@@ -1115,7 +1115,7 @@
                   <note xml:id="n115" target="a115" type="gloss">"Concealed, covered, hidden."
                      "wrapped, adj." OED Online. Oxford University Press, September 2015. Web. 1
                      December 2015.</note>in Night.</l>
-               <l n="107"> Whether the Nymph shall break <hi rend="italic"><ref target="a116"
+               <l n="107"> Whether the Nymph shall break <hi rend="italic"><ref target="a116" corresp="n116"
                         >Diana</ref></hi>
                   <note xml:id="n116" target="a116" type="gloss">"An ancient Roman female divinity,
                      the moon-goddess, patroness of virginity and of hunting." "Diana, n." OED
@@ -1135,20 +1135,20 @@
                <l n="111">Or lose her Heart, or Necklace, at a Ball;</l>
                <l n="112"> Or whether Heav'n has doom'd that <hi rend="italic">Shock</hi> must fall. </l>
                <l n="113">Haste then ye Spirits! to your Charge repair;</l>
-               <l n="114"> The flutt'ring Fan be <hi rend="italic"><ref target="a119"
+               <l n="114"> The flutt'ring Fan be <hi rend="italic"><ref target="a19" corresp="n119"
                         >Zephyretta'a</ref></hi>
                   <note xml:id="n119" target="a119" type="gloss">The nymphs' names are invented,
                      each derived from a word related to the object entrusted to it. "Zephyretta",
                      from 'Zephyr', has care of the breeze-producing fan.</note> 's Care; </l>
-               <l n="115"> The Drops to thee, <hi rend="italic"><ref target="a120"
+               <l n="115"> The Drops to thee, <hi rend="italic"><ref target="a120" corresp="n120"
                      >Brillante</ref></hi>
                   <note xml:id="n120" target="a120" type="gloss">"Brillante", from 'brilliant', is
                      entrusted with the earrings.</note> , we consign; </l>
-               <l n="116"> And <hi rend="italic"><ref target="a121">Momentilla</ref></hi>
+               <l n="116"> And <hi rend="italic"><ref target="a21" corresp="n121">Momentilla</ref></hi>
                   <note xml:id="n121" target="a121" type="gloss">"Momentilla", from 'moment', has
                      charge of the pocket-watch.</note> , let the Watch be thine; <pb n="17"/>
                </l>
-               <l n="117"> Do thou, <hi rend="italic"><ref target="a122">Crispissa</ref></hi>
+               <l n="117"> Do thou, <hi rend="italic"><ref target="a122" corresp="n122">Crispissa</ref></hi>
                   <note xml:id="n122" target="a122" type="gloss">"Crispissa", from 'crisp', has
                      charge of the two precise curls of hair.</note> , tend her fav'rite Lock; </l>
                <l n="118">
@@ -1179,26 +1179,26 @@
                   <note xml:id="n125" target="a125" type="gloss">"Said of the obstruction: To block,
                      choke up." "stop, v." OED Online. Oxford University Press, September 2015. Web.
                      1 December 2015.</note> in <hi rend="italic"><ref
-                        target="a126">Vials</ref></hi>
+                        target="a126" corresp="n126">Vials</ref></hi>
                   <note xml:id="n126" target="a125" type="gloss">"A vessel of a small or moderate
                      size used for holding liquids; in later use spec., a small glass bottle" "vial,
                      n." OED Online. Oxford University Press, September 2015. Web. 1 December
                      2015.</note> , or transfixt with <hi rend="italic">Pins</hi> ; </l>
                <l n="129"> Or plung'd in Lakes of bitter <hi rend="italic">Washes</hi> lie, </l>
                <l n="130"> Or wedg'd whole Ages in a <hi rend="italic"><ref
-                  target="a127">Bodkin's</ref></hi>
+                  target="a127" corresp="n127">Bodkin's</ref></hi>
                   <note xml:id="n127" target="a127" type="gloss">Bodkin, n. "A needle-like
                      instrument with a blunt knobbed point, having a large (as well as a small) eye,
                      for drawing tape or cord through a hem, loops, etc." "bodkin, n." OED Online.
                      Oxford University Press, September 2015. Web. 8 December 2015.</note> Eye: </l>
                <l n="131">
                   <hi rend="italic">Gums</hi> and <hi rend="italic"><ref
-                     target="a128">Pomatums</ref></hi>
+                     target="a28" corresp="n128">Pomatums</ref></hi>
                   <note xml:id="n128" target="a128" type="gloss">"An ointment for the skin or hair;
                      = pomade" "pomatum, n." OED Online. Oxford University Press, September 2015.
                      Web. 8 December 2015.</note> shall his Flight restrain, </l>
                <l n="132">While clog'd he beats his silken Wings in vain;</l>
-               <l n="133"> Or Alom- <hi rend="italic"><ref target="a129"
+               <l n="133"> Or Alom- <hi rend="italic"><ref target="a129" corresp="n129"
                   >Stypticks</ref></hi>
                   <note xml:id="n129" target="a129" type="gloss">A 'styptic' is a kind of medicine
                      used to contract organic tissue (for example, to stop a cut bleeding),
@@ -1209,7 +1209,7 @@
                      http://www.oed.com/view/Entry/5869</note> with contracting Power </l>
                <l n="134"> Shrink his thin Essence like a rivell'd Flower. <pb n="18"/>
                </l>
-               <l n="135"> Or as <hi rend="italic"><ref target="a130"
+               <l n="135"> Or as <hi rend="italic"><ref target="a130" corresp="n130"
                   >Ixion</ref></hi>
                   <note xml:id="n130" target="a130" type="gloss">"Ixion, in Greek legend, murdered
                      his father-in-law and could find no one to purify him until Zeus did so. Ixion
@@ -1262,7 +1262,7 @@
                      December 2015.</note>for ever crown'd with Flow'rs, </l>
                <l n="2"> Where <hi rend="italic">Thames</hi> with Pride surveys his rising Tow'rs, </l>
                <l n="3">There stands a Structure of Majestick Frame,</l>
-               <l n="4"> Which from the neighb'ring <ref target="a137"
+               <l n="4"> Which from the neighb'ring <ref target="a137" corresp="n137"
                   >Hampton</ref>
                   <note xml:id="n137" target="a137" type="gloss">The Norton Anthology, 9th edition,
                      states that Pope alludes to "Hampton Court, the royal palace, about fifteen
@@ -1271,7 +1271,7 @@
                      Vol. C. New York: Norton, 2012. 2694. Print.</note> takes its Name. </l>
                <l n="5"> Here <hi rend="italic">Britain</hi> 's Statesmen oft the Fall foredoom </l>
                <l n="6">Of Foreign Tyrants, and of Nymphs at home;</l>
-               <l n="7"> Here Thou, great <hi rend="italic"><ref target="a138"
+               <l n="7"> Here Thou, great <hi rend="italic"><ref target="a138" corresp="n138"
                   >Anna</ref></hi>
                   <note xml:id="n138" target="a138" type="gloss">Queen Anne, a Stuart monarch who
                      reigned over Great Britain and Ireland from 1702-1714. "Anne". Encyclopædia
@@ -1309,7 +1309,7 @@
                   <hi rend="italic">Belinda</hi> now, whom Thirst of Fame invites, </l>
                <l n="26"> Burns to encounter two adventrous Knights, <pb n="21"/>
                </l>
-               <l n="27"> At <hi rend="italic"><ref target="a139">Ombre</ref></hi>
+               <l n="27"> At <hi rend="italic"><ref target="a139" corresp="n139">Ombre</ref></hi>
                   <note xml:id="n139" target="a139" type="gloss">Ombre was a popular three-player
                      card game similar to modern Bridge. Each game can have nine rounds (“tricks”).
                      The most straightforward way to win is by taking five tricks (drawing the
@@ -1327,7 +1327,7 @@
                <l n="30">Each Band the number of the Sacred Nine.</l>
                <l n="31">Soon as she spreads her Hand, th' Aerial Guard</l>
                <l n="32">Descend, and fit on each important Card,</l>
-               <l n="33"> First <hi rend="italic">Ariel</hi> perch'd upon a <hi rend="italic"><ref target="a140">Matadore</ref></hi>
+               <l n="33"> First <hi rend="italic">Ariel</hi> perch'd upon a <hi rend="italic"><ref target="a140" corresp="n140">Matadore</ref></hi>
                   <note xml:id="n141" target="a141" type="gloss">The matadores (spadillio, manillio,
                      and basto) are the three highest-ranking cards in the trump suit. Belinda
                      controls all three. Gibbs, Alban George Henry. The Game of Ombre. London:
@@ -1362,7 +1362,7 @@
                      Gibbs, Alban George Henry. The Game of Ombre. London: privately printed, 1874,
                      3rd edition (expanded) 1902. Print.</note>with Care;</l>
                <l n="46">
-                  <hi rend="italic"><ref target="a144">Let Spades be
+                  <hi rend="italic"><ref target="a144" corresp="n144">Let Spades be
                      Trumps</ref></hi>
                   <note xml:id="n144" target="a144" type="gloss">Belinda chooses the trump suit
                      (which would be decided by an auction––I.e., whoever bet the most on that
@@ -1387,7 +1387,7 @@
                <l n="61"> Ev'n mighty <hi rend="italic">Pam</hi> that Kings and Queens o'erthrow, </l>
                <l n="62"> And mow'd down Armies in the Fights of <hi rend="italic">Lu</hi> , </l>
                <l n="63">And Chance of War! now, destitute of Aid,</l>
-               <l n="64"> Falls undistinguish'd by the Victor <hi rend="italic"><ref target="a145">Spade</ref></hi>
+               <l n="64"> Falls undistinguish'd by the Victor <hi rend="italic"><ref target="n145">Spade</ref></hi>
                   <note xml:id="n145" target="a145" type="gloss">These lines describe Belinda’s
                      taking the first four tricks of the game with her four strongest cards.
                      (Players discard the played cards and replace each with one drawn randomly from
@@ -1397,7 +1397,7 @@
             <pb n="23"/>
             <lg type="verse_paragraph">
                <l n="65"> Thus far both Armies to <hi rend="italic">Belinda</hi> yield; </l>
-               <l n="66"> Now to the <hi rend="italic"><ref target="a146">Baron</ref></hi>
+               <l n="66"> Now to the <hi rend="italic"><ref target="a146" corresp="n146">Baron</ref></hi>
                   <note xml:id="n146" target="a146" type="gloss">In the following stanzas, the Baron
                      begins to threaten Belinda’s winning streak. He wins tricks five through eight,
                      tying their scores.</note> Fate inclines the Field.</l>
@@ -1441,14 +1441,14 @@
                <l n="89">At this, the Blood the Virgin's Cheek forsook,</l>
                <l n="90">A livid Paleness spreads o'er all her Look;</l>
                <l n="91">She sees, and trembles at th' approaching Ill,</l>
-               <l n="92"> Just in the Jaws of Ruin, and <hi rend="italic"><ref target="a148">Codille</ref></hi>
+               <l n="92"> Just in the Jaws of Ruin, and <hi rend="italic"><ref target="n148">Codille</ref></hi>
                   <note xml:id="n148" target="a148" type="gloss">Codille denotes losing the game and
                      the penalty that comes with it. Belinda must either win trick 9, or hope that
                      the third, useless player does, in order to avoid a loss. Gibbs, Alban George
                      Henry. The Game of Ombre. London: privately printed, 1874, 3rd edition
                      (expanded) 1902. Print.</note> . </l>
                <l n="93">And now, (as oft in some distemper'd State)</l>
-               <l n="94"> On one nice <hi rend="italic"><ref target="a149">Trick</ref></hi>
+               <l n="94"> On one nice <hi rend="italic"><ref target="a149" corresp="n148">Trick</ref></hi>
                   <note xml:id="n149" target="a149" type="gloss">A trick is a round. As explained
                      above, a game consists of nine tricks; whoever takes five wins the game. These
                      lines describe Belinda’s taking the first four tricks of the game with her four
@@ -1456,7 +1456,7 @@
                      drawn randomly from the stock pile.) Gibbs, Alban George Henry. The Game of
                      Ombre. London: privately printed, 1874, 3rd edition (expanded) 1902.
                      Print.</note> depends the gen'ral Fate, </l>
-               <l n="95"> Lurk'd in her Hand, and mourn'd his captive <hi rend="italic"><ref target="a150">Queen</ref></hi>
+               <l n="95"> Lurk'd in her Hand, and mourn'd his captive <hi rend="italic"><ref target="a150" corresp="n150">Queen</ref></hi>
                   <note xml:id="n150" target="a150" type="gloss">The ace is the Baron’s card, which
                      is inferior to Belinda’s king of hearts, although neither is aware of this
                      until the cards are played. These lines describe Belinda’s taking the first
@@ -1485,7 +1485,7 @@
                      <ref target="a153" corresp="n153">Mill</ref>
                   <note xml:id="n153" target="a153" type="gloss">Coffee grinder</note>turns
                   round.</l>
-               <l n="106"> On shining Altars of <hi rend="italic"><ref target="a154">Japan</ref></hi>
+               <l n="106"> On shining Altars of <hi rend="italic"><ref target="a154" corresp="n154">Japan</ref></hi>
                   <note xml:id="n154" target="a154" type="gloss">Japan: "work varnished and raised
                      in gold and colours" according to Johnson's dictionary Johnson, Samuel. "Japan
                      (noun)." Japan (noun). A Dictionary of the English Language: A Digital Edition
@@ -1507,7 +1507,7 @@
                <l n="119">New Stratagems, the radiant Lock to gain.</l>
                <l n="120">Ah cease rash Youth! desist e'er 'tis too late,</l>
                <l n="121"> Fear the just Gods, and think of <note rend="star" anchored="true"/>
-                  <hi rend="italic"><ref target="a155">Scylla</ref></hi>
+                  <hi rend="italic"><ref target="a155" corresp="n155">Scylla</ref></hi>
                   <note xml:id="n155" target="a155" type="gloss">Nisus, king of Megara, was at war
                      against Crete, but it was decreed by fate that his kingdom would be safe as
                      long as a purple lock of hair remained on his head. His daughter Scylla fell in
@@ -1552,7 +1552,7 @@
                <l n="145">Resign'd to Fate, and with a Sigh retir'd.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="146"> The Peer now spreads the glitt'ring <hi rend="italic"><ref target="a158">Forfex</ref></hi>
+               <l n="146"> The Peer now spreads the glitt'ring <hi rend="italic"><ref target="a58" corresp="n158">Forfex</ref></hi>
                   <note xml:id="n158" target="a158" type="gloss">Latin for scissors</note> wide, </l>
                <l n="147">T'inclose the Lock; now joins it, to divide.</l>
                <l n="148">Ev'n then, before the fatal Engine clos'd,</l>
@@ -1588,7 +1588,7 @@
                <l n="161">(The Victor cry'd) the glorious Prize is mine!</l>
                <l n="162">While Fish in Streams, or Birds delight in Air,</l>
                <l n="163"> Or in a Coach and Six the <hi rend="italic">British</hi> Fair, </l>
-               <l n="164"> As long as <hi rend="italic"><ref target="a162">Atalantis</ref></hi>
+               <l n="164"> As long as <hi rend="italic"><ref target="a162" corresp="n162">Atalantis</ref></hi>
                   <note xml:id="n162" target="a162" type="gloss">Secret Memoirs and Manners of
                      Several Persons of Quality, of Both Sexes, from the New Atalantis, an Island in
                      the Mediterranean, published in 1709, was a scandalous book by Delarivier
@@ -1661,7 +1661,7 @@
                   <hi rend="italic">Umbriel</hi> , a dusky melancholy Spright, </l>
                <l n="14">As ever fully'd the fair face of Light,</l>
                <l n="15">Down to the Central Earth, his proper Scene,</l>
-               <l n="16"> Repairs to search the gloomy Cave of <hi rend="italic"><ref target="a165">Spleen</ref></hi>
+               <l n="16"> Repairs to search the gloomy Cave of <hi rend="italic"><ref target="a165" corresp="n165">Spleen</ref></hi>
                   <note xml:id="n165" target="a165" type="gloss">An organ which was supposed to
                      cause melancholy, irascibility, spite, ill humor, etc. Hysteria (or
                      hypochondriac vapours) in women was attributed to the spleen. Pope, Alexander.
@@ -1735,7 +1735,7 @@
                      http://www.cummingsstudyguides.net/Guides2/Pope.html.</note>,</l>
                <l n="44"> Pale Spectres, gaping Tombs, and Purple Fires: <pb n="33"/>
                </l>
-               <l n="45"> Now Lakes of liquid Gold, <hi rend="italic"><ref target="a169">Elysian</ref></hi>
+               <l n="45"> Now Lakes of liquid Gold, <hi rend="italic"><ref target="a169" corresp="n169">Elysian</ref></hi>
                   <note xml:id="n169" target="a169" type="gloss">A reference to Elysium/Elysian
                      Fields/Elysian Plain, where mortals favored by the gods for their rectitude
                      were sent to dwell after they had departed from the land of the living. Elysium
@@ -1759,7 +1759,7 @@
                      earthen boiler." Pope, Alexander. "The Rape of the Lock." Eighteenth-Century
                      Resources. Ed. Jack Lynch. Rutgers University. Web. 2 Dec. 2015.
                      https://andromeda.rutgers.edu/~jlynch/Texts/rapelock.html.</note>there like <hi
-                     rend="italic">Homer</hi> 's <hi rend="italic"><ref target="a171">Tripod</ref></hi>
+                     rend="italic">Homer</hi> 's <hi rend="italic"><ref target="a171" corresp="n171">Tripod</ref></hi>
                   <note xml:id="n171" target="a171" type="gloss">A reference to the automatons (or
                      "tripods"), twenty in all, fashioned with rivets and gold wheels by the lame
                      god Vulcan in his workshop so that they might be dispatched whenever the gods
@@ -1860,7 +1860,7 @@
                <l n="80"> Seems to reject him, tho' she grants his Pray'r. <pb n="35"/>
                </l>
                <l n="81">A wondrous Bag with both her Hands she binds,</l>
-               <l n="82"> Like that where once <hi rend="italic"><ref target="a179">Ulysses</ref></hi>
+               <l n="82"> Like that where once <hi rend="italic"><ref target="a179" corresp="n179">Ulysses</ref></hi>
                   <note xml:id="n179" target="a179" type="gloss">A reference to Book X of Homer's
                      The Odyssey in which Odysseus receives a bag of winds from Aeolus after having
                      been hospitably entertained by him for at least a month at his palace at the
@@ -1884,7 +1884,7 @@
                <l n="88">Spreads his black Wings, and flowly mounts to Day.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="89"> Sunk in <hi rend="italic"><ref target="a180">Thalestris'</ref></hi>
+               <l n="89"> Sunk in <hi rend="italic"><ref target="a180" corresp="n180">Thalestris'</ref></hi>
                   <note xml:id="n180" target="a180" type="gloss">330 BC: The name of a mythological
                      Amazonian queen who, accompanied by 300 warriors, supposedly sought out
                      Alexander the Great, who was then in Hyrcania, a satrapy of the Achaemenid
@@ -1987,14 +1987,14 @@
                <l n="114">Expos'd thro' Crystal to the gazing Eyes,</l>
                <l n="115">And heighten'd by the Diamond's circling Rays,</l>
                <l n="116">On that Rapacious Hand for ever blaze?</l>
-               <l n="117"> Sooner shall Grass in <hi rend="italic">Hide</hi> -Park <hi rend="italic"><ref target="a189">Circus</ref></hi>
+               <l n="117"> Sooner shall Grass in <hi rend="italic">Hide</hi> -Park <hi rend="italic"><ref target="a189" corresp="n189">Circus</ref></hi>
                   <note xml:id="n189" target="a189" type="gloss">Another word for Ring Road in
                      London's Hyde Park. A "circus" in this context also refers to a roundabout on a
                      London road. "West End of London." Wikipedia. Wikimedia Foundation, 11 Nov.
                      2015. Web. 5 Nov. 2015. https://en.wikipedia.org/wiki/West_End_of_London.
                      Black, Joseph Laurence. The Broadview Anthology of British Literature. 2nd ed.
                      Peterborough, Ont.: Broadview ;, 2011. Print.</note> grow, </l>
-               <l n="118"> And Wits take Lodgings in the Sound of <hi rend="italic"><ref target="a190">Bow</ref></hi>
+               <l n="118"> And Wits take Lodgings in the Sound of <hi rend="italic"><ref target="a190" corresp="n190">Bow</ref></hi>
                   <note xml:id="n190" target="a190" type="gloss">A reference to the Bow Bells of St
                      Mary-le-Bow, a church which was located in the Cheapside district of London.
                      Apparently this location was regarded as unfashionable. Power, Matthew. "Bow
@@ -2011,7 +2011,7 @@
             <lg type="verse_paragraph">
                <l n="121"> She said; then raging to <hi rend="italic">Sir Plume</hi> repairs, </l>
                <l n="122"> And bids her <hi rend="italic">Beau</hi> demand the precious Hairs: </l>
-               <l n="123"> ( <hi rend="italic">Sir Plume</hi> , of <hi rend="italic"><ref target="a191">Amber Snuff-box</ref></hi>
+               <l n="123"> ( <hi rend="italic">Sir Plume</hi> , of <hi rend="italic"><ref target="a191" corresp="n191">Amber Snuff-box</ref></hi>
                   <note xml:id="n191" target="a191" type="gloss">High society gentlemen of this time
                      generally stored their "snuff," or sniffing tobacco, in jeweled "snuff boxes"
                      made from precious materials such as porcelain, ebony, and the afore-mentioned
@@ -2019,7 +2019,7 @@
                      statuses to the rest of the world, so a man of Sir Plume's societal stature
                      would be understandably vain about having an amber snuff box. English
                      Illustrated Magazine 1903. Print.</note> justly vain, </l>
-               <l n="124"> And the nice Conduct of a <hi rend="italic"><ref target="a192">clouded Cane</ref></hi>
+               <l n="124"> And the nice Conduct of a <hi rend="italic"><ref target="a192" corresp="n192">clouded Cane</ref></hi>
                   <note xml:id="n192" target="a192" type="gloss">A thin walking stick (especially if
                      crafted from agates and marbles) which was often luxuriously adorned with
                      precious stones, silver, gold, or amber, and was colored or semi-opaquely
@@ -2051,7 +2051,7 @@
             <lg type="verse_paragraph">
                <l n="131">It grieves me much (reply'd the Peer again)</l>
                <l n="132">Who speaks so well shou'd ever speak in vain.</l>
-               <l n="133">But * by this <ref target="a195" corresp="n195">Lock</ref><note
+               <l n="133">But * by this <ref target="n195" corresp="n195">Lock</ref><note
                      xml:id="n195" target="a195" type="gloss">This passage directly alludes to a
                      passage from Homer in which Achilles cuts off a lock of his own hair to mourn
                      and commemorate the death of Patroclus. This leads many of his men to follow
@@ -2073,7 +2073,7 @@
                <l n="140">The long-contended Honours of her Head.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="141"> But <hi rend="italic">Umbriel</hi> , hateful <hi rend="italic"><ref target="a196">Gnome</ref></hi>
+               <l n="141"> But <hi rend="italic">Umbriel</hi> , hateful <hi rend="italic"><ref target="a196" corresp="n196">Gnome</ref></hi>
                   <note xml:id="n196" target="a196" type="gloss">This use of the word "gnome" could
                      refer to the fact that in 18th century Britain, wealthy aristocrats often hired
                      real people to live in a corner of their lavish gardens as hermits or "gnomes."
@@ -2094,7 +2094,7 @@
                <l n="147">For ever curs'd be this detested Day,</l>
                <l n="148">Which snatch'd my best, my fav'rite Curl away!</l>
                <l n="149">Happy! ah ten times happy, had I been,</l>
-               <l n="150"> If <hi rend="italic"><ref target="a197">Hampton-Court</ref></hi>
+               <l n="150"> If <hi rend="italic"><ref target="a197" corresp="n197">Hampton-Court</ref></hi>
                   <note xml:id="n197" target="a197" type="gloss">The same Hampton Court, the large
                      palace in London that famously was the residence of King Henry VIII, to which
                      the earlier line about "Hampton's Echos" refers. "Hampton Court Palace."
@@ -2107,7 +2107,7 @@
                </l>
                <l n="153">Oh had I rather un-admir'd remain'd</l>
                <l n="154"> In some lone Isle, or distant <hi rend="italic">Northern</hi> Land; </l>
-               <l n="155"> Where the gilt <hi rend="italic"><ref target="a198">Chariot</ref></hi>
+               <l n="155"> Where the gilt <hi rend="italic"><ref target="a198" corresp="n198">Chariot</ref></hi>
                   <note xml:id="n198" target="a198" type="gloss">May be a reference to the chariot
                      driven by Helios (whose identity was later subsumed into that of Apollo), the
                      god of the sun and a Titan, in order to mark the waxing and waning of daylight.
@@ -2116,7 +2116,7 @@
                      3 Dec. 2015.
                      http://www.greekmythology.com/Other_Gods/Helios/helios.html.</note> never
                   mark'd the way, </l>
-               <l n="156"> Where none learn <hi rend="italic">Ombre</hi> , none e'er taste <hi rend="italic"><ref target="a199">Bohea</ref></hi>
+               <l n="156"> Where none learn <hi rend="italic">Ombre</hi> , none e'er taste <hi rend="italic"><ref target="a199" corresp="n199">Bohea</ref></hi>
                   <note xml:id="n199" target="a199" type="gloss">A black tea that originated in
                      China's Bu-yi hills, for which it is named, and was of relatively low quality.
                      "Definition of Bohea in English:." Bohea: Definition of Bohea in Oxford
@@ -2128,7 +2128,7 @@
                <l n="159">What mov'd my Mind with youthful Lords to rome?</l>
                <l n="160">O had I stay'd, and said my Pray'rs at home!</l>
                <l n="161"> 'Twas this, the Morning <hi rend="italic">Omens</hi> did foretel; </l>
-               <l n="162"> Thrice from my trembling hand the <hi rend="italic"><ref target="a200">Patch-box</ref></hi>
+               <l n="162"> Thrice from my trembling hand the <hi rend="italic"><ref target="a200" corresp="n200">Patch-box</ref></hi>
                   <note xml:id="n200" target="a200" type="gloss">A small and rectangular (at times
                      oval) box with beauty patches, which were worn by ladies of fashion during the
                      18th century so that the fairness of their skin might be accentuated. A patch
@@ -2138,7 +2138,7 @@
                      contributed to its signification. "Patch Box." Encyclopedia Britannica Online.
                      Encyclopedia Britannica. Web. 3 Dec. 2015.
                      http://www.britannica.com/topic/patch-box.</note> fell; </l>
-               <l n="163"> The tott'ring <hi rend="italic"><ref target="a201">China</ref></hi>
+               <l n="163"> The tott'ring <hi rend="italic"><ref target="a201" corresp="n201">China</ref></hi>
                   <note xml:id="n201" target="a201" type="gloss">"China" in this context refers to
                      porcelain dishes that came via trade routes from China. These trade routes
                      between China and England first began to flourish during the 18th century, and
@@ -2147,7 +2147,7 @@
                      Chinese Taste in Eighteenth-Century England." Eighteenth-Century Fiction 25
                      (2012): 248-50. University of Toronto Press. Web. 8 Dec. 2015.</note> shook
                   without a Wind, </l>
-               <l n="164"> Nay, <hi rend="italic"><ref target="a202">Poll</ref></hi>
+               <l n="164"> Nay, <hi rend="italic"><ref target="a202" corresp="n202">Poll</ref></hi>
                   <note xml:id="n202" target="a202" type="gloss">Refers to a parrot which Belinda
                      had for a pet. http://www.cummingsstudyguides.net/Guides2/Pope.html</note> sate
                   mute, and <hi rend="italic">Shock</hi> was most Unkind! </l>
@@ -2178,7 +2178,7 @@
             </head>
             <lg type="verse_paragraph">
                <l n="1">SHE said: the pitying Audience melt in Tears,</l>
-               <l n="2"> But <hi rend="italic">Fate</hi> and <hi rend="italic"><ref target="a203">Jove</ref></hi>
+               <l n="2"> But <hi rend="italic">Fate</hi> and <hi rend="italic"><ref target="a203" corresp="n203">Jove</ref></hi>
                   <note xml:id="n203" target="a203" type="gloss">Jove, also known as Jupiter, was
                      the king of the Roman gods. He is the roman equivalent to Zeus. Source:
                      http://www.britannica.com/topic/Jupiter-Roman-god</note> had stopp'd the <hi
@@ -2189,7 +2189,7 @@
                <l n="3"> In vain <hi rend="italic">Thalestris</hi> with Reproach assails, </l>
                <l n="4"> For who can move when fair <hi rend="italic">Belinda</hi> fails? </l>
                <l n="5"> Not half to fixt the <hi rend="italic">Trojan</hi> cou'd remain, </l>
-               <l n="6"> While <hi rend="italic">Anna</hi> begg'd and <hi rend="italic"><ref target="a205">Dido</ref></hi>
+               <l n="6"> While <hi rend="italic">Anna</hi> begg'd and <hi rend="italic"><ref target="a205" corresp="n205">Dido</ref></hi>
                   <note xml:id="n205" target="a205" type="gloss">In the Aeneid by Virgil, Aeneas,
                      the lover of Dido, queen of Carthage, is told by Zeus he must leave Italy
                      because of fate and as a last effort Dido sends her sister Anna to persuade him
@@ -2199,7 +2199,7 @@
                <l n="8"> And swift as Lightning to the Combate flies. <pb n="42"/>
                </l>
                <l n="9">All side in Parties, and begin th' Attack;</l>
-               <l n="10"> Fans clap, Silks russle, and tough <ref target="a206">Whalebones</ref>
+               <l n="10"> Fans clap, Silks russle, and tough <ref target="a206" corresp="n206">Whalebones</ref>
                   <note xml:id="n206" target="a206" type="gloss">Used to stiffen various articles of
                      fashionable clothing, but also in the frames of military helmets. "Utilitarian
                      Uses." Baleen (whale-bone) uses. University of Aberdeen, 2002. Web. 1 December,
@@ -2268,11 +2268,11 @@
             <lg type="verse_paragraph">
                <l n="27"> While thro' the Press enrag'd <hi rend="italic">Thalestries</hi> flies, </l>
                <l n="28">And scatters Deaths around from both her Eyes,</l>
-               <l n="29"> A <hi rend="italic"><ref target="a214">Beau</ref></hi>
+               <l n="29"> A <hi rend="italic"><ref target="a214" corresp="n214">Beau</ref></hi>
                   <note xml:id="n214" target="a214" type="gloss">An old term for a courtier. In the
                      18th century, the term also meant a man who was concerned with his dress and
                      appearance. Source: "beau, adj. and n." OED Online. Oxford University Press,
-                     September 2015. Web. 7 December 2015.</note> and <hi rend="italic"><ref target="a215">Witling</ref></hi>
+                     September 2015. Web. 7 December 2015.</note> and <hi rend="italic"><ref target="a215" corresp="n215">Witling</ref></hi>
                   <note xml:id="n215" target="a215" type="gloss">One who fancies himself a wit
                      "witling, n." OED Online. Oxford University Press, December 2015. Web. 8
                      December 2015.
@@ -2282,22 +2282,22 @@
                      >Song</hi> . </l>
                <l n="31">
                   <hi rend="italic">O cruel Nymph! a living Death I bear</hi> , </l>
-               <l n="32"> Cry'd <hi rend="italic"><ref target="a216">Dapperwit</ref></hi>
+               <l n="32"> Cry'd <hi rend="italic"><ref target="a216" corresp="n216">Dapperwit</ref></hi>
                   <note xml:id="n216" target="a216" type="gloss">Character in Wycherley's play "Love
                      in a Wood." A witless suitor who is tricked into marrying a pregnant woman.
                      http://www.enotes.com/topics/love-wood/characters</note> , and sunk beside his
                   Chair. </l>
-               <l n="33"> A mournful Glance Sir <hi rend="italic"><ref target="a217">Fopling</ref></hi>
+               <l n="33"> A mournful Glance Sir <hi rend="italic"><ref target="a217" corresp="n217">Fopling</ref></hi>
                   <note xml:id="n217" target="a217" type="gloss">Reference to Sir Fopling Flutter, a
                      character in George Etherege's play the Man of Mode
                      https://en.wikipedia.org/wiki/The_Man_of_Mode</note> upwards cast, </l>
-               <l n="34"> * <hi rend="italic"><ref target="a218">Those Eyes are made so
+               <l n="34"> * <hi rend="italic"><ref target="a218" corresp="n218">Those Eyes are made so
                   killing</ref></hi>
                   <note xml:id="n218" target="a218" type="gloss">Pope adds a footnote: "The Words of
                      a Song in the Opera of Camilla" Source: Pope, Alexander, and Adolphus William
                      Ward. The Poetical Works of Alexander Pope. London: Macmillan, 1907.
                      Print.</note> ---was his last: </l>
-               <l n="35"> Thus on <hi rend="italic"><ref target="a219">Meander</ref></hi>
+               <l n="35"> Thus on <hi rend="italic"><ref target="a219" corresp="n219">Meander</ref></hi>
                   <note xml:id="n219" target="a219" type="gloss">in Greek Mythology, name for the
                      river god and his river, which flowed from Phrygia to the Aegean Sea. Stewart,
                      Michael. "People, Places &amp; Things: Meander", Greek Mythology: From the
@@ -2307,7 +2307,7 @@
                <l n="36">Th' expiring Swan, and as he sings he dies.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="37"> As bold Sir <hi rend="italic"><ref target="a220">Plume</ref></hi>
+               <l n="37"> As bold Sir <hi rend="italic"><ref target="a220" corresp="n220">Plume</ref></hi>
                   <note xml:id="n220" target="a220" type="gloss">The name gives insight to the
                      character. A plume is an arrangement of feathers used by a bird for display or
                      worn by a person for ornament. Plume is also used as a verb 'to plume oneself'
@@ -2323,7 +2323,7 @@
                <l n="40">But at her Smile, the Beau reviv'd again.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="41"> + Now <hi rend="italic"><ref target="a222">Jove</ref></hi>
+               <l n="41"> + Now <hi rend="italic"><ref target="a222" corresp="n222">Jove</ref></hi>
                   <note xml:id="n222" target="a222" type="gloss">Jove is a god of balance presiding
                      over laws and social order. These lines are referencing in the Iliad,"the
                      father of all balanced his golden scales and placed a doom in each of them".
@@ -2350,7 +2350,7 @@
                   <note xml:id="n224" target="a224" type="gloss">Allusion to their god-like state of
                      being.</note>;</l>
                <l n="47">Nor fear'd the Chief th' unequal Fight to try,</l>
-               <l n="48">Who sought no more than on his Foe <ref target="a225" corresp="n225">to
+               <l n="48">Who sought no more than on his Foe <ref target="n225" corresp="n225">to
                      die</ref>
                   <note xml:id="n225" target="a225" type="gloss">"to die" is a common euphemism for
                      orgasm. It was a common poetical term in the 16th and 17th centuries. Source:
@@ -2359,7 +2359,7 @@
                <l n="49">But this bold Lord, with manly Strength indu'd,</l>
                <l n="50">She with one Finger and a Thumb subdu'd,</l>
                <l n="51">Just where the Breath of Life his Nostrils drew,</l>
-               <l n="52"> A Charge of <hi rend="italic"><ref target="a226">Snuff</ref></hi>
+               <l n="52"> A Charge of <hi rend="italic"><ref target="a226" corresp="n226">Snuff</ref></hi>
                   <note xml:id="n226" target="a226" type="gloss">A fine-ground tobacco, intended for
                      consumption through inhalation or sniffed into the nose.</note> the wily Virgin
                   threw; </l>
@@ -2380,14 +2380,14 @@
                      n." OED Online. Oxford University Press, December 2015. Web. 8 December 2015.
                      http://www.oed.com/view/Entry/223704?redirectedFrom=virago#eid</note>cry'd,</l>
                <l n="58"> And drew a deadly <hi rend="italic">Bodkin</hi> from her Side. </l>
-               <l n="59">(*The same, his <ref target="a229" corresp="n229">ancient Personage</ref>
+               <l n="59">(*The same, his <ref target="n229" corresp="n229">ancient Personage</ref>
                   <note xml:id="n229" target="a229" type="gloss">Pope adds in a footnote: "In
                      imitation of the progress of Agamemnon's sceptre in Homer" Source: Pope,
                      Alexander, and Adolphus William Ward. The Poetical Works of Alexander Pope.
                      London: Macmillan, 1907. Print.</note> to deck,</l>
                <l n="60"> Her great great Grandsire wore about his Neck <pb n="45"/>
                </l>
-               <l n="61"> In three <hi rend="italic"><ref target="a230">Seal-Rings</ref></hi>
+               <l n="61"> In three <hi rend="italic"><ref target="n230">Seal-Rings</ref></hi>
                   <note xml:id="n230" target="a230" type="gloss">a finger ring bearing a seal;
                      signet ring Source: "seal, n.2." OED Online. Oxford University Press, December
                      2015. Web. 8 December 2015.</note> ; which after melted down, </l>
@@ -2415,7 +2415,7 @@
                   <hi rend="italic">Restore the Lock</hi> ! she cries; and all around </l>
                <l n="74">
                   <hi rend="italic">Restore the Lock</hi> ! the vaulted Roofs rebound. </l>
-               <l n="75"> Not fierce <hi rend="italic"><ref target="a232">Othello</ref></hi>
+               <l n="75"> Not fierce <hi rend="italic"><ref target="a232" corresp="n232">Othello</ref></hi>
                   <note xml:id="n232" target="a232" type="gloss">In Shakespeare's Othello, the
                      titular character is tricked into believing his wife has been unfaithful by his
                      ensign Iago, who plants her handkerchief in the room of Othello's lieutenant,
@@ -2458,7 +2458,7 @@
             <lg type="verse_paragraph">
                <l n="93">But trust the Muse---she saw it upward rise,</l>
                <l n="94">Tho' mark'd by none but quick Poetic Eyes:</l>
-               <l n="95"> (So <hi rend="italic">Rome</hi> 's great <ref target="a236" corresp="n236"
+               <l n="95"> (So <hi rend="italic">Rome</hi> 's great <ref target="n236" corresp="n236"
                      >Founder</ref>
                   <note xml:id="n236" target="a236" type="gloss">In popular myth, Rome was founded
                      by Romulus, who ruled for 37 years and then mysteriously disappeared. Proculus
@@ -2468,7 +2468,7 @@
                </l>
                <l n="97">A sudden Star, it shot thro' liquid Air,</l>
                <l n="98"> And drew behind a radiant <hi rend="italic">Trail of Hair</hi> . </l>
-               <l n="99"> Not <hi rend="italic"><ref target="a237">Berenice</ref></hi>
+               <l n="99"> Not <hi rend="italic"><ref target="a237" corresp="n237">Berenice</ref></hi>
                   <note xml:id="n237" target="a237" type="gloss">Berenice was the wife of Ptolemy
                      III. During battle, Berenice dedicates a lock of her hair to Aphrodite as an
                      offering for Ptolemy's safe return. After the offering, the lock vanished and
@@ -2485,21 +2485,21 @@
                <l n="102">And pleas'd pursue its Progress thro' the Skies.</l>
             </lg>
             <lg type="verse_paragraph">
-               <l n="103"> This the <hi rend="italic"><ref target="a238">Beau-monde</ref></hi>
+               <l n="103"> This the <hi rend="italic"><ref target="a238" corresp="n238">Beau-monde</ref></hi>
                   <note xml:id="n238" target="a238" type="gloss">Fashionable or high society Source:
                      "beau monde, n." OED Online. Oxford University Press, September 2015. Web. 8
-                     December 2015.</note> shall from the <hi rend="italic"><ref target="a239">Mall</ref></hi>
+                     December 2015.</note> shall from the <hi rend="italic"><ref target="a239" corresp="n239">Mall</ref></hi>
                   <note xml:id="n239" target="a239" type="gloss">A "shaded walk serving as a
                      promenade," generalized from The Mall, a name of a broad, tree-lined promenade
                      in St. James's Park, London.</note> survey, </l>
                <l n="104">And hail with Musick its propitious Ray.</l>
                <l n="105"> This, the blest Lover shall for <hi rend="italic">Venus</hi> take, </l>
-               <l n="106"> And send up Vows from <hi rend="italic"><ref target="a240">Rosamonda</ref></hi>
+               <l n="106"> And send up Vows from <hi rend="italic"><ref target="a240" corresp="n240">Rosamonda</ref></hi>
                   <note xml:id="n240" target="a240" type="gloss">Body of water in St. James' Park
                      Shmoop Editorial Team. "The Rape of the Lock Allusions." Shmoop. Shmoop
                      University, Inc., 11 Nov. 2008. Web. 1 Dec. 2015.
                      http://www.shmoop.com/the-rape-of-the-lock/allusions.html</note> 's Lake. </l>
-               <l n="107"> This <hi rend="italic"><ref target="a241">Partridge</ref></hi>
+               <l n="107"> This <hi rend="italic"><ref target="n241">Partridge</ref></hi>
                   <note xml:id="n241" target="a241" type="gloss">John Partridge (1644 - c. 1714) an
                      astrologer known for publishing almanacs with (generally incorrect) yearly
                      predictions of deaths of notable individuals like the King of France (during a
@@ -2511,7 +2511,7 @@
                   <note xml:id="n242" target="a242" type="gloss">i.e., the telescope, developed by
                      Galileo Galilei</note>; </l>
                <l n="109">And hence th' Egregious Wizard shall foredoom</l>
-               <l n="110"> The Fate of <hi rend="italic"><ref target="a243">Louis</ref></hi>
+               <l n="110"> The Fate of <hi rend="italic"><ref target="a243" corresp="n243">Louis</ref></hi>
                   <note xml:id="n243" target="a243" type="gloss">Likely a reference to the King of
                      France, Louis the XIV at the time; also notable because Louis XIV and England
                      had long been at war.</note> , and the Fall of <hi rend="italic">Rome</hi> .
