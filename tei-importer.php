@@ -84,9 +84,9 @@ class Tei_Importer {
 
             $proc = new XSLTProcessor();
             $proc->importStylesheet( $xsl_doc );
-            $newdom = $proc->transformToDoc( $xml_doc );
+            $newXml = $proc->transformToXML( $xml_doc );
 
-            $post_content = $newdom->saveXML();
+            $post_content = $newXml;
             //echo $post_content; exit;
             $my_post = array(
                 'ID' => $post->ID,
