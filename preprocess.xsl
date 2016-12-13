@@ -171,7 +171,7 @@
         </xsl:for-each>
     </xsl:template>
     
-	<xsl:template match="TEI:pb"><span style="color:#999999;" class="pagebreak">[page break]</span></xsl:template>
+	<xsl:template match="TEI:pb"><span style="color:#999999;" class="pagebreak">[page <xsl:value-of select="@n"/>]</span></xsl:template>
     
     <xsl:template match="TEI:note[@target]"></xsl:template>
     
